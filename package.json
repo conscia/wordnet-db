@@ -10,7 +10,7 @@
     "url": "git://github.com/moos/wordnet-db.git"
   },
   "dependencies": {
-    "tar": "2.2.1"
+    "tar": "6.0.2"
   },
   "devDependencies": {},
   "optionalDependencies": {},
